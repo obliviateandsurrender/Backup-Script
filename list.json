@@ -1,0 +1,22 @@
+[
+  [
+    "/home/whatsis/.emacs",
+    ".emacs"
+  ],
+  [
+    "/home/whatsis/.vimrc",
+    ".vimrc"
+  ],
+  [
+    "/home/whatsis/.bashrc",
+    ".bashrc"
+  ],
+  [
+    "/home/grenko/.bash_profile",
+    ".bash_profile"
+  ],
+  [
+    "/home/grenko/*.cpp",
+    "backup.cpp"
+  ]
+]
